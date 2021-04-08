@@ -11,5 +11,5 @@ jobs:
         uses: Watremons/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 35ecea99c03911d62b9bf7b2b9a86e3e
+          GIST_ID: 491d126855825bc661aaba4f27fd8cdd
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
